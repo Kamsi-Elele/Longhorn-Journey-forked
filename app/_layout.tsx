@@ -18,7 +18,7 @@ export default function RootLayout() {
         {/* Onboarding flow */}
         <Stack.Screen name="(onboarding)" />
 
-        {/* Main app tabs */}
+        {/* Main tabs */}
         <Stack.Screen name="(tabs)" />
       </Stack>
 
